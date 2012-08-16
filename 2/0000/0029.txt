@@ -1,46 +1,46 @@
-X BUTTON
+BUTANG X
 SELECT
-B BUTTON
-Use the graffiti marker
-Freeze frame
-Quit graffiti mode
-Change pen size
-Select color with the dropper
-Use as an eraser
-Close the graffiti marker
+BUTANG B
+Guna graffiti marker
+Beku frame
+Henti mod graffiti
+Tukar saiz pen
+Pilih warna menggunakan dropper
+Gunakan sebagai pemadam
+Tutup graffiti marker
 Stamps
-GRAFFITI MODE
+MOD GRAFFITI
 REC
 GRAFFITI
 ID \xf000Ȅ\x0001\x0000
 ―／―
 \xf000Ȁ\x0001\x0000/4
-Please select your friend(s).
-CALL FRIEND(S)
-JOIN
-Calling!
-Calling.
-Calling..
-Calling...
-Connecting!
-Connecting.
-Connecting..
-Connecting...
-Searching for your friends!
-Searching for your friends.
-Searching for your friends..
-Searching for your friends...
-Would you like to stop the Xtransceiver?
-If the leader drops out, the group will\xfffebe disbanded. Is that OK?
-YES
-NO
-Since the leader dropped out,\xfffethe group will be disbanded.
-The other Trainer has left the group.\xfffeThe communication will be ended.
-There are no members.\xfffeThe communication will be ended.
-Call failed.
-Failed to connect.
-Parental Controls prohibits the transfer\xfffeof photos.\xfffeIf you wish to send them, please change\xfffethe System Settings to allow this.
-Waiting for the other player to finish...
+Sila pilih rakan
+PANGGIL RAKAN-RAKAN
+SERTAI
+Memanggil!
+Memanggil.
+Memanggil..
+Memanggil...
+Menyambung!
+Menyambung.
+Menyambung..
+Menyambung...
+Sedang mencari rakan-rakan anda!
+Sedang mencari rakan-rakan anda.
+Sedang mencari rakan-rakan anda..
+Sedang mencari rakan-rakan anda...
+Adakah kamu mahu hentikan Xtransceiver?
+Jika Ketua keluar, satu kumpulan akan\xfffedibubarkan. Adakah ini OK?
+YA
+TIDAK
+Sedangkan ketua keluar,\xfffekumpulan ini akan dibubarkan.
+Trainer lagi satu telah meninggalkan kumpulan.\xfffeKomunikasi ini akan ditamatkan.
+Tiada ahli kumpulan.\xfffeKomunikasi ini akan ditamatkan.
+Panggilan gagal.
+Gagal untuk disambung.
+Pengawal Keluarga melarang penghantaran\xfffegambar.\xfffeJika anda mahu menghantarnya,sila tukar\xfffeSetting Sistem untuk membenarkannya.
+Tunggu pemain-pemain yang lain...
 ただいま　『\xf000Ĝ\x0001\x0000』の\xfffeさんかしゃを　ぼしゅうちゅうです！\xfffeしめきりまで　あと\xf000ȁ\x0001\x0001びょうです！
 『\xf000Ĝ\x0001\x0000』の\xfffeかいしまで　しばらくおまちください
 『\xf000Ĝ\x0001\x0000』が\xfffeちゅうし　されました
