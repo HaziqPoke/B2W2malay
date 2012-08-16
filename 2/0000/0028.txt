@@ -1,7 +1,7 @@
-Please enter the Friend Code.
-Enter\xfffeTrain Number (01-\xf000ȁ\x0001\x0000)
-Enter\xfffeRank (01-\xf000ȁ\x0001\x0000)
-Back
+Sila masukkan Code Rakan
+Masukkan\xfffeNombor Train (01-\xf000ȁ\x0001\x0000)
+Masukkan\xfffePangkat (01-\xf000ȁ\x0001\x0000)
+Kembali
 Ok
-There is no such Train Number.\xfffePlease enter a number up to \xf000ȁ\x0001\x0000.
-There is no such Rank.\xfffePlease enter a number up to \xf000ȁ\x0001\x0000.
+Nombor Train tak wujud.\xfffeSila masukkan nombor hingga ke \xf000ȁ\x0001\x0000.
+Pangkat tidak wujud.\xfffeSila masukkan nombor hingga ke \xf000ȁ\x0001\x0000.
